@@ -31,7 +31,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        node-version: 18.x
+        node-version: 16.18.0
     env:
       HUGO_VERSION: 0.102.3
       extended: true
