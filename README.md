@@ -1,4 +1,4 @@
-# freelance-firm-hugo
+# archviz-firm-hugo
 Website built with HUGO
 ## Required:
 1. HUGO-extended
