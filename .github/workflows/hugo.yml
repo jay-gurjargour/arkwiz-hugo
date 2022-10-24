@@ -30,7 +30,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      node-version: 16.18.0
+      node-version: latest
       HUGO_VERSION: 0.102.3
       extended: true
     steps:
